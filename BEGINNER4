@@ -1,0 +1,26 @@
+/*
+Exercise 1:
+Given a year, report if it is a leap year.
+
+Exercise 2:
+Write a JavaScript program to compare two objects to determine if the first one contains
+the same properties as the second one (which may also have additional properties). For
+example, objA and objB are equal (but not equal to objC).
+const objA = { a: 1, b: 1, c: 1 };
+const objB = { a: 1, b: 1, c: 1 };
+const objC = { a: 1, b: 1, d: 1 };
+
+Exercise 3:
+Write a JavaScript program to convert a comma-separated values (CSV) string to a 2D array.
+A new line indicates a new row in the array. Example input:
+abc,def,ghi
+jkl,mno,pqr
+stu,vwx,yza
+
+Exercise 4:
+Write a JavaScript program to generate a random hexadecimal color code.
+
+Exercise 5:
+Write a JavaScript function that returns true if the provided predicate function returns true
+for all elements in a collection, false otherwise.
+*/
