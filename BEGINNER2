@@ -1,0 +1,19 @@
+/*
+Exercise 1:
+Write a JavaScript program to create a new string from a given string taking the last 3
+characters and added at both the front and back. The string length must be 3 or more, if
+not, the original string is returned.
+
+Exercise 2:
+Write a JavaScript program to extract the first half of a string of even length.
+
+Exercise 3:
+Write a JavaScript program to concatenate two strings except their first character.
+
+Exercise 4:
+Given two values, write a JavaScript program to find out which one is nearest to 100
+
+Exercise 5:
+Write a JavaScript program to check a given string contains 2 to 4 occurrences of a specified
+character.
+*/
