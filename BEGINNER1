@@ -19,3 +19,18 @@ Write a JavaScript program to create a new string adding "New!" in front of a gi
 the given string begins with "New!" already then return the original string.
 
 */
+
+/*
+Exercise 1
+
+let sum = 0;
+function hundredTotal (a,b) {
+if (a === 100 || b === 100) {
+return true
+} else if (a + b === 100) {
+return true
+} else {
+return false
+}
+}
+*/
