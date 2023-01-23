@@ -23,7 +23,6 @@ the given string begins with "New!" already then return the original string.
 /*
 Exercise 1
 
-let sum = 0;
 function hundredTotal (a,b) {
 if (a === 100 || b === 100) {
 return true
@@ -33,4 +32,10 @@ return true
 return false
 }
 }
+*/
+
+/*
+Exercise 1
+
+const isEqualTo100 = (a,b) => a === 100 || b === 100 || (a + b === 100);
 */
