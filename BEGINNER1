@@ -52,7 +52,7 @@ console.log(whatFormat('webpack.config.js'));
 /*
 Exercise 3
 
-const moveCharsForward = () = (str) =>
+const moveCharsForward = (str) =>
 .split('')
 .map(char => String.fromCharCode(char.charCodeAt(0) + 1))
 .join ('');
