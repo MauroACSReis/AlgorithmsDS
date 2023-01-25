@@ -48,3 +48,14 @@ const whatFormat = (str) => str.slice(lastIndexOf('.'));
 console.log(whatFormat('index.html'));
 console.log(whatFormat('webpack.config.js'));
 */
+
+/*
+Exercise 3
+
+const moveCharsForward = () = (str) =>
+.split('')
+.map(char => String.fromCharCode(char.charCodeAt(0) + 1))
+.join ('');
+
+console.log(moveCharsForward('abcd));
+*/
