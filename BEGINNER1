@@ -59,3 +59,16 @@ const moveCharsForward = (str) =>
 
 console.log(moveCharsForward('abcd));
 */
+let currentDate = dd/mm/yyyy
+/*
+Exercise 4
+
+const presentDate = (date = new Date()) => {
+let day = date.getDate() + 1;
+let month = date.getMonth() + 1;
+let year = date.getFullYear();
+return ${day}/${month}/${year}
+}
+
+console.log(presentDate())
+*/
