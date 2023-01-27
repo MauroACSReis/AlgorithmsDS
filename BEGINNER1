@@ -76,6 +76,13 @@ Exercise 5
 
 let strings = []
 const newString = (str) => if (!strings.includes(str)) {
-strings.push('new'+str)
+strings.push('New! ' + str)
 }
+
+Exercise 5
+
+const addNew = (str) => 
+str.indexOf('New!') === 0 ? str : 'New!' : ${str};
+
+console.log(addNew('Offers'));
 */
