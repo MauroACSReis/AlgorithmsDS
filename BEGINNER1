@@ -71,4 +71,11 @@ return '${day}/${month}/${year}'
 }
 
 console.log(presentDate())
+
+Exercise 5
+
+let strings = []
+const newString = (str) => if (!strings.includes(str)) {
+strings.push('new'+str)
+}
 */
