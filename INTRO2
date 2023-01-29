@@ -21,5 +21,12 @@ character.
 */
 Exercise 1
 
+const ThreeCharEachSide= (str) =>
+str.length < 3 ? str : str.slice(0,3) + str.slice(-3);
+
+console.log(ThreeCharEachSide('abc'))
+console.log(ThreeCharEachSide('abcdef'))
+console.log(ThreeCharEachSide('abc123abc123'))
+console.log(ThreeCharEachSide('ab'))
 
 */
