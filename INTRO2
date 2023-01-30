@@ -56,4 +56,6 @@ const mixExceptFirst = (str1, str2) =>
 str1.slice(1) + str2.slice(1);
 
 Exercise 4
+
+const nearHundred = (a, b) => (100 - a) > (100 - b) ? a : b;
 */
