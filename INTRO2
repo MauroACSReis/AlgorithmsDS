@@ -32,6 +32,16 @@ console.log(ThreeCharEachSide('ab'))
 
 
 */
+Exercise 1
+
+const cutEven = (str) => str.slice(0, str.length / 2);
+
+console.log(cutEven('temp'));
+console.log(cutEven('temple'));
+console.log(cutEven('temples'));
+*/
+
+*/
 Exercise 2
 
 const cutEven = (str) => str.slice(0, str.length / 2);
@@ -39,4 +49,11 @@ const cutEven = (str) => str.slice(0, str.length / 2);
 console.log(cutEven('temp'));
 console.log(cutEven('temple'));
 console.log(cutEven('temples'));
+
+Exercise 3
+
+const mixExceptFirst = (str1, str2) =>
+str1.slice(1) + str2.slice(1);
+
+Exercise 4
 */
