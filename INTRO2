@@ -67,5 +67,9 @@ const nearHundred = (a, b) => (100 - a) > (100 - b) ? a : b;
 /*
 Exercise 5
 
+const twoToFour = (str, char) =>
+str.split('').filter(ch => ch === char).length;
 
+const contains2To4 = (str, char) =>
+countChars(str, char) >= 2 && countChars(str, char) <= 4;
 */
