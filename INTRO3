@@ -12,3 +12,17 @@ Exercise 5:
 Write a JavaScript program to replace the first digit in a string (should contain at least one
 digit) with a $ character.
 */
+
+/*
+Exercise 1
+
+let count = 0;
+const countEven = (arr) =>
+for (let i  = 0; i < arr.length; i++) {
+if (el % 2 == 0) {
+count += 1
+}
+}
+
+console.log(countEven(1,2,3,4,5,6,7,8,9,10,11,12))
+*/
