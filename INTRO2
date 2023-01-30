@@ -28,5 +28,15 @@ console.log(ThreeCharEachSide('abc'))
 console.log(ThreeCharEachSide('abcdef'))
 console.log(ThreeCharEachSide('abc123abc123'))
 console.log(ThreeCharEachSide('ab'))
+*/
 
+
+*/
+Exercise 2
+
+const cutEven = (str) => str.slice(0, str.length / 2);
+
+console.log(cutEven('temp'));
+console.log(cutEven('temple'));
+console.log(cutEven('temples'));
 */
