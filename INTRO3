@@ -72,3 +72,14 @@ Exercise 3
 const isAscending = (arr, num) =>
 arr[0] === arr[1] - num === arr[2] - 2*num
 */
+
+/*
+Exercise 3
+
+const isAscending = (arr) => {
+for (let i = 0; i < arr.length; i += 1) {
+if (arr[i + 1] > arr[i]) return false;
+}
+return true;
+}
+*/
