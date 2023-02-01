@@ -65,3 +65,10 @@ return returnArray;
 console.log(countEvenNumbers(createArrayOfNumbers(6)));
 console.log(countEvenNumbers(createArrayOfNumbers(9)));
 */
+
+/*
+Exercise 3
+
+const isAscending = (arr) =>
+
+*/
