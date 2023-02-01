@@ -69,6 +69,6 @@ console.log(countEvenNumbers(createArrayOfNumbers(9)));
 /*
 Exercise 3
 
-const isAscending = (arr) =>
-
+const isAscending = (arr, num) =>
+arr[0] === arr[1] - num === arr[2] - 2*num
 */
