@@ -83,3 +83,14 @@ if (arr[i + 1] > arr[i]) return false;
 return true;
 }
 */
+
+/*
+Exercise 4
+
+const largestEven = (arr) =>
+Math.max(...arr.filter(num => num % 2 === 0))
+
+console.log(largestEven([1,2,3,4,5,6,7]));
+console.log(largestEven([1,2,33,4,5,6]));
+console.log(largestEven([1,2,3,44,55,6]));
+*/
