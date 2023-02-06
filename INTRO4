@@ -24,3 +24,13 @@ Exercise 5:
 Write a JavaScript function that returns true if the provided predicate function returns true
 for all elements in a collection, false otherwise.
 */
+
+/*
+Exercise 1
+
+const isLeapYear = (num) => num%4 === 0;
+
+console.log(isLeapYear(2018))
+console.log(isLeapYear(2022))
+console.log(isLeapYear(2023))
+*/
