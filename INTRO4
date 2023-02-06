@@ -30,7 +30,12 @@ Exercise 1
 
 const isLeapYear = (num) => num%4 === 0;
 
-console.log(isLeapYear(2016))
-console.log(isLeapYear(2022))
-console.log(isLeapYear(2023))
+console.log(isLeapYear(2016));
+console.log(isLeapYear(2022));
+console.log(isLeapYear(2023));
+*/
+
+/*
+Exercise 2
+
 */
