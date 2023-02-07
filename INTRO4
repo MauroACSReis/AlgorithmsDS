@@ -38,4 +38,15 @@ console.log(isLeapYear(2023));
 /*
 Exercise 2
 
+const objA = { a: 2, b: 2, c: 1};
+const objB = { a: 1, b: 1, c: 1};
+const objC = { a: 1, b: 1, c: 1};
+
+const objectsEqual - (a,b) => {
+Object.keys(a).every(key => b[key]);
+
+console.log(objectsEqual(objA, objB));
+console.log(objectsEqual(objA, objC));
+console.log(objectsEqual(objB, objC));
+};
 */
