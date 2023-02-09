@@ -50,3 +50,14 @@ console.log(objectsEqual(objA, objC));
 console.log(objectsEqual(objB, objC));
 };
 */
+
+/*
+Exercise 3
+
+const parseCSV = (csvstring) =>
+csvString.split('\n').map(row => row.split(','));
+
+const str = abc, def, ghi, jkl, mno, pqr, stu, vwx, vza';
+
+console.log(parseCSV(str));
+*/
