@@ -21,3 +21,13 @@ Write a JavaScript function to find the first not repeated character
 Example string: 'abacddbec'
 Expected output: 'e'
 */
+
+/*
+Exercise 1
+
+const alphabeticalOrder = (str) =>
+str.split('').sort((a,b) => a > b ? 1 : -1)
+.join()
+
+console.log(alphabeticalOrder('webmaster'))
+*/
