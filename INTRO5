@@ -31,3 +31,17 @@ str.split('').sort((a,b) => a > b ? 1 : -1)
 
 console.log(alphabeticalOrder('webmaster'))
 */
+
+/*
+Exercise 2
+
+const countVowels = () =>
+str, letters = ['a', 'e', 'i', 'o', 'u'] =>
+str
+.split('')
+.filter(s => letters.indexOf(s) > -1)
+.length;
+
+console.log(countVowels('abcde'));
+console.log(countVowels(abcde, ['b','c']));
+*/
