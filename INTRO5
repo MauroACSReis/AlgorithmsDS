@@ -35,8 +35,7 @@ console.log(alphabeticalOrder('webmaster'))
 /*
 Exercise 2
 
-const countVowels = () =>
-str, letters = ['a', 'e', 'i', 'o', 'u'] =>
+const countVowels = (str, letters = ['a', 'e', 'i', 'o', 'u']) =>
 str
 .split('')
 .filter(s => letters.indexOf(s) > -1)
