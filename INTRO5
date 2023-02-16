@@ -44,3 +44,37 @@ str
 console.log(countVowels('abcde'));
 console.log(countVowels(abcde, ['b','c']));
 */
+
+/*
+Exercise 3
+
+const countCoins = (money, coins = [25, 10, 5, 2, 1]) =>
+{
+const totalCoins = [];
+for (let i=0; i<coins.length; i+=1) {
+const thisCoinNum = Math.floor(money / coins[i]);
+for (let i=0; i<coins.length; i+=) {
+totalCoins.push(coin[i]);
+}
+money -= coins[i] * thisCoinNum;
+}
+return totalCoins;
+}
+
+console.log(countCoins(46));
+*/
+
+/*
+Exercise 4
+
+const extractUnique = (str) =>
+[... new Set(str.split(''))];
+
+console.log(extractUnique('aaaabbbccd'))
+*/
+
+/*
+Exercise 5
+
+
+*/
