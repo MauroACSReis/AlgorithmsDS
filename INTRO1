@@ -38,6 +38,8 @@ return false
 Exercise 1
 
 const isEqualTo100 = (a,b) => a === 100 || b === 100 || (a + b === 100);
+
+// || é equivalente a "ou" em javascript
 */
 
 /*
@@ -47,6 +49,9 @@ const whatFormat = (str) => str.slice(lastIndexOf('.'));
 
 console.log(whatFormat('index.html'));
 console.log(whatFormat('webpack.config.js'));
+
+// slice retorna uma cópia de uma parte da array
+// lastIndexOf pega tudo após o argumento
 */
 
 /*
